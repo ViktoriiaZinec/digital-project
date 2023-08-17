@@ -46,11 +46,11 @@ form.addEventListener("submit", function (event) {
 // }
 
 const arr = [
-  "../img/img1-min.jpg",
-  "../img/img2-min.jpg",
-  "../img/img3-min.jpg",
-  "../img/img4-min.jpg",
-  "../img/img5-min.jpg",
+  "./img/img1-min.jpg",
+  "./img/img2-min.jpg",
+  "./img/img3-min.jpg",
+  "./img/img4-min.jpg",
+  "./img/img5-min.jpg",
 ];
 let counter = -1;
 
